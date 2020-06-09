@@ -1,0 +1,8 @@
+/*
+ * Decompiled with CFR <Could not determine version>.
+ */
+package io.netty.handler.codec.spdy;
+
+public interface SpdyFrame {
+}
+
